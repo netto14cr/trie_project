@@ -1,4 +1,4 @@
-# Python Trie trie_project
+# Python Trie
 This project implements a Trie data structure in Python with additional functionalities for inserting, searching, deleting words, and providing spelling suggestions. The words are displayed in a formatted, column-based layout.
 
 ## Features
